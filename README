@@ -4,8 +4,11 @@ A modern and fully responsive contact form built using HTML, CSS, and JavaScript
 
 This project includes real backend integration using Formspree, allowing users to send messages directly to email. It is fully compatible with GitHub Pages and suitable for portfolio and freelance websites.
 
+Project Preview
+![Hire Me.png](Hire Me.png)
+
 ... Live Demo
-https://yourusername.github.io/procontact-animated-form
+https://musharibkhalid.github.io/Hire-Me-Professional-Contact-Form/
 
 ... Technologies Used
 - HTML
@@ -22,4 +25,5 @@ https://yourusername.github.io/procontact-animated-form
 - GitHub Pages compatible
 
 ... Contact
-Feel free to reach out if you’d like to work together.
+- LinkedIn: https://www.linkedin.com/in/musharib-khalid
+- GitHub: https://github.com/MusharibKhalid
